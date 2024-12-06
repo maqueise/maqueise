@@ -6,7 +6,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Olá, Meu nome é Caio Maqueise Alécio Pinheiro
+        Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">  Meu nome é Caio Maqueise Alécio Pinheiro
       </h1>
     </summary>
   </ul>
@@ -20,7 +20,7 @@
 - 💼 I'm currently working on: **🎓 Professor de Informática/Desevolvimento Web no IFMS**
 - 🌱 I'm currently learning: **Astro.Build**
 
- **<h3 align="center">Skills</h3>**
+ **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"></div>
 
