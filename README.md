@@ -6,7 +6,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,  Meu nome é Caio Maqueise Alécio Pinheiro
+        HI <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio Maqueise
       </h1>
     </summary>
   </ul>
@@ -15,9 +15,9 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/maqueise" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-**<h3 align="left">Rapid Fire</h3>**
+ **<h3 align="left">💻 Professor specialized in Web Development and Interface Design.</h3>**
 
-- 💼 I'm currently working on: **🎓 Professor de Informática/Desevolvimento Web no IFMS**
+- 💼 I'm currently working on: **🎓  ![IFMS](https://www.ifms.edu.br/)**
 - 🌱 I'm currently learning: **Astro.Build**
 
  **<h3 align="left">Skills</h3>**
