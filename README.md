@@ -6,7 +6,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        Olá, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">  Meu nome é Caio Maqueise Alécio Pinheiro
+        Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,  Meu nome é Caio Maqueise Alécio Pinheiro
       </h1>
     </summary>
   </ul>
